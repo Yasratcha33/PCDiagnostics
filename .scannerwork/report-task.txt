@@ -1,0 +1,6 @@
+projectKey=phpfenix
+serverUrl=http://localhost:9000
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:9000/dashboard?id=phpfenix
+ceTaskId=AXjs5n9vd9Qibg16l4Py
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXjs5n9vd9Qibg16l4Py

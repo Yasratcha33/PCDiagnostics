@@ -1,0 +1,69 @@
+/*
+#5a189a morado oscuro 
+#7b2cbf morado medio 
+#9d4edd morado claro
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black !important;
+    font-family: 'Lato', sans-serif;
+}
+
+body { 
+    color: white !important;
+    padding: 30px;
+
+}
+
+.header {
+    height: 95vh;
+    background-image: linear-gradient( to right bottom, #59189ab6, #9d4eddd0) , url(./imgs/pexels-athena-2582932.jpg);
+    background-size: cover;
+    background-position: top;
+    
+}
+
+li {
+    list-style: none;
+}
+
+.color {
+    color: black !important;
+}
+
+
+.rectangulo {
+    max-width: 85vh;
+    border: solid 1px;
+    /*  margin-left: 20%; */
+    
+}
+
+.form-check {
+    padding: 10px;
+    
+}
+.espaciado{
+
+    padding: 10px;
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 150px;
+    resize: none;
+}
+
+.margen {
+
+    padding: 10%;
+}
+
